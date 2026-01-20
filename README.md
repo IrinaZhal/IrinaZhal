@@ -1,12 +1,14 @@
 ## Hello, world! ✨
 
 - Привет, меня зовут Ира. В 2025 году я окончила курс по фронтенд-разработке от Яндекс Практикума, здесь я храню свои проекты.
+- С сентября по декабрь 2025 проходила стажировку в стартапе Tivali.
 
 
 **Мой стек:**
-- Вёрстка: HTML, CSS, адаптив, семантическая верстка, БЭМ, Pixel Perfect.
+- Вёрстка: HTML, CSS, адаптив, семантическая верстка, БЭМ, Pixel Perfect, CSS модули, Tailwind CSS.
 - Пишу на JavaScript с применением TypeScript и React.
-- Применяю сборщики (Webpack/Vite), линтеры и форматтеры. 
+- Есть опыт работы с менеджерами состояни Redux|Zustand.
+- Применяю сборщики (Webpack/Vite), линтеры и форматтеры.
 <!--
 **IrinaZhal/IrinaZhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
