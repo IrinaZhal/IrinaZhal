@@ -7,7 +7,7 @@
 **Мой стек:**
 - Вёрстка: HTML, CSS, адаптив, семантическая верстка, БЭМ, Pixel Perfect, CSS модули, Tailwind CSS.
 - Пишу на JavaScript с применением TypeScript и React.
-- Есть опыт работы с менеджерами состояни Redux|Zustand.
+- Есть опыт работы с менеджерами состояни Redux/Zustand.
 - Применяю сборщики (Webpack/Vite), линтеры и форматтеры.
 <!--
 **IrinaZhal/IrinaZhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
