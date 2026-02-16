@@ -9,6 +9,7 @@
 - Пишу на JavaScript с применением TypeScript и React.
 - Есть опыт работы с менеджерами состояни Redux/Zustand.
 - Применяю сборщики (Webpack/Vite), линтеры и форматтеры.
+- Знакома с библиотеками готовых компонентов Ant Design, shadcn.
 <!--
 **IrinaZhal/IrinaZhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
